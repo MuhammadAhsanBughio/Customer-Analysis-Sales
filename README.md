@@ -23,3 +23,5 @@ Utilized Tableau to create an insightful dashboard for an online superstore comp
 - Data Visualization
 - Data Analysis
 - Descriptive Statistics
+
+## Dashboard Link : [Click here](https://public.tableau.com/views/CustomerAnalysisSales_17092458355760/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
