@@ -1,7 +1,7 @@
-# Customer Analysis Dashboard
+# 🔎 Customer Analysis Dashboard
 <img width="898" alt="image" src="https://github.com/MuhammadAhsanBughio/Customer-Analysis-Sales/assets/139073097/12288442-b752-4a66-a221-89e019b39adf">
 
-## Overview
+## Project Overview
 Utilized Tableau to create an insightful dashboard for an online superstore company, offering deep insights into sales performance and customer behavior.
 
 ## Key Responsibilities
